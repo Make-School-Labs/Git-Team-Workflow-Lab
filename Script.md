@@ -27,7 +27,10 @@ The smell of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 Sky met the Unicorn King who granted him magic powers.
+After meeting the King, Sky became good friends with the Zookeeper, governor of the Unicorn Kingdom.
 The end.
+
+
 
 ## Cast
 
