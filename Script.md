@@ -8,8 +8,13 @@ Behind it, he finds a magical world of unicorns living in perfect piece and harm
 ## Plot
 
 Sky woke to the sound of traffic, the sky was gray.
+<<<<<<< HEAD
 After his typical breakfast of toast and eggs he left for school.
 Normally Sky would have walked down Bleaker street, but today there was construction and he decided to take Flanders behind the zoo.
+=======
+After his typical breakfast of toast and an egge he left for school.
+Normally George would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
+>>>>>>> develop
 
 Being on time was not one of Sky’s specialities today would prove to be no different.
 As he moved slowly.
