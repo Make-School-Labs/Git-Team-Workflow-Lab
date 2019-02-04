@@ -24,6 +24,7 @@ The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 George met the Unicorn King who granted him magic powers.
+Just moments after recieving his powers, George destroyed the whole zoo and release all the animals to the wild.
 The end.
 
 ## Cast
