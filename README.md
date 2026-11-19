@@ -1,9 +1,22 @@
-# Git Team Workflow Lab
+## Team Project
 
-A lab activity to learn how to manage a coherent and organized workflow on
-collaborative team projects with a shared Git repository.
+### Project Overview
+This repository demonstrates team collaboration using Git and GitHub.
 
-Fork and clone this starter repository,
-then carefully follow the instructions in the
-[Git Team Workflow](https://make-school-courses.github.io/Git-Team-Workflow/)
-tutorial step by step.
+### Branches
+- main: Main project branch
+- team-feature: Feature development branch
+
+### Collaboration Workflow
+1. Create a branch.
+2. Make changes.
+3. Commit changes.
+4. Create a Pull Request.
+5. Review and merge changes.
+
+### Tools Used
+- Git
+- GitHub
+
+### Objective
+To learn collaborative software development using branches and pull requests.
